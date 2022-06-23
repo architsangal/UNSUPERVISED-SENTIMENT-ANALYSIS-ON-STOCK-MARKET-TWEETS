@@ -6,4 +6,4 @@ Refer to mandate 1 folder for detailed description or [Click Here](https://githu
 
 Contributors:
 - [Archit Sangal](https://github.com/architsangal)
-- [Pratyush Ranjan]()
+- [Pratyush Ranjan](https://github.com/pratyushranjan2)
